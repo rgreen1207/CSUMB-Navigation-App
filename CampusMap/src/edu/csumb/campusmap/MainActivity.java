@@ -70,7 +70,7 @@ public class MainActivity extends Activity {
 	
 	private void initDB()
 	{
-		dbManager = new DBManager(getApplicationContext(),"locationDB",null,1);
+		dbManager = new DBManager(getApplicationContext());
 		db = dbManager.getReadableDatabase();
 	}
 	
