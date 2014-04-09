@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 
 		if (savedInstanceState == null) {
 			getFragmentManager().beginTransaction()
-					.add(R.id.testList, new PlaceholderFragment()).commit();
+					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
 		initDB();
 		showDB();
@@ -76,7 +76,7 @@ public class MainActivity extends Activity {
 	
 	private void showDB()
 	{
-		
+	
 		
 	}
 	

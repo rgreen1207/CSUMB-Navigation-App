@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 public class DBManager extends SQLiteOpenHelper {
-	
+	//private SQLiteDatabase db;
 	static final String DB_NAME = "assets/Locations.db";
 	public DBManager(Context context)
 	{
@@ -25,7 +25,7 @@ public class DBManager extends SQLiteOpenHelper {
 		BufferedReader createStringReader;
 		try
 		{
-			createStringReader = new BufferedReader(new FileReader(DB_NAME));
+			createStringReader = new BufferedReader(new FileReader("assets/Locations.sql"));
 		}
 		catch (FileNotFoundException e)
 		{
