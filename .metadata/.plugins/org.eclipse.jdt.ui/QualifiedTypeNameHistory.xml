@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.database.sqlite.SQLiteDatabase.CursorFactory"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="edu.csumb.campusmap.db.DBManager"/>
+<fullyQualifiedTypeName name="android.database.sqlite.SQLiteDatabase"/>
+</qualifiedTypeNameHistroy>

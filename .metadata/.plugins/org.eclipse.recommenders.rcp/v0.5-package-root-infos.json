@@ -1,0 +1,28 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-03-29T12:26:46.552-07:00",
+    "location": "C:\\Users\\Andrew\\Projects\\Github\\CST438Project\\CampusMap\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7f972d2aa0fcb741fc84a9a10c98555f6f431a7a",
+    "jarFileModificationDate": "2014-04-06T16:22:21.161-07:00",
+    "location": "C:\\Apps\\Android\\android-sdk\\platforms\\android-19\\android.jar",
+    "javaRuntime": false
+  }
+]
