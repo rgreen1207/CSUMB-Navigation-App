@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CST438Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="db_filename">assets/Locations.sql</string>
+    <string-array name="textArray">
+        <item >this is a thing</item>
+        <item >this is also a thing</item>
+    </string-array>
+
+</resources>
